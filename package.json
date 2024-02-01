@@ -1,0 +1,16 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "This is a products description",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Rupesh pal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
